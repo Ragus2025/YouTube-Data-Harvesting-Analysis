@@ -40,3 +40,8 @@ This project extracts data from YouTube using the YouTube Data API, stores it in
 ## 🎯 Output
 Insights to help improve YouTube channel performance using data-driven decisions.# YouTube-Data-Harvesting-Analysis
 A project to collect YouTube channel data using API and analyze it using Python and SQL.
+## 📷 Dashboard Screenshot
+
+Below is the sample screenshot of the analysis dashboard created for this project:
+
+![YouTube Dashboard](youtube_dashboard.png)
